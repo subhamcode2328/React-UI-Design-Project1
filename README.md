@@ -1,2 +1,8 @@
-# React-UI-Design-Project1
-Course Selling Website UI built with React.js and Tailwind CSS. This project focuses on creating a clean, modern, and structured frontend design for an online learning platform. It includes landing sections and course cards with hover effects. This is only a UI project — not responsive yet and no backend functionality included.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
